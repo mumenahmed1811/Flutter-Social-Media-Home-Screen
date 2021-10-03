@@ -1,4 +1,4 @@
-# charity
+# Charity
 
 A new Flutter application.
 
